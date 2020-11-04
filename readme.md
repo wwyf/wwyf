@@ -10,3 +10,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwyf&count_private=true&&hide=jupyter%20notebook,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wwyf)](https://github.com/anuraghazra/github-readme-stats)
