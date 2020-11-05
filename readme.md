@@ -20,7 +20,11 @@ Tags: Persistent Memory, Storage System
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 28 October, 2020 - 04 November, 2020
+
+sh         1 hr 33 mins    ████████████████████░░░░░   79.60 % 
+Markdown   14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+YAML       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 ```
 <!--END_SECTION:waka-->
 
