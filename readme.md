@@ -20,13 +20,13 @@ Tags: Persistent Memory, Storage System
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 November, 2020 - 15 November, 2020
+Week: 09 November, 2020 - 16 November, 2020
 
-Python     3 hrs 33 mins   █████████░░░░░░░░░░░░░░░░   35.77 % 
-sh         3 hrs 5 mins    ███████▓░░░░░░░░░░░░░░░░░   31.06 % 
-Markdown   1 hr 40 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.89 % 
-C++        58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-TeX        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Python     3 hrs 33 mins   █████████░░░░░░░░░░░░░░░░   36.02 % 
+sh         3 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   31.16 % 
+Markdown   1 hr 40 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.01 % 
+C++        55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+TeX        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 ```
 <!--END_SECTION:waka-->
 
