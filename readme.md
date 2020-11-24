@@ -20,13 +20,13 @@ Tags: Persistent Memory, Storage System
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 November, 2020 - 22 November, 2020
+Week: 16 November, 2020 - 23 November, 2020
 
-C          5 hrs 17 mins   █████████▓░░░░░░░░░░░░░░░   38.74 % 
-sh         4 hrs 22 mins   ████████░░░░░░░░░░░░░░░░░   32.13 % 
-Markdown   1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Makefile   1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Bash       35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+C          5 hrs 17 mins   █████████▒░░░░░░░░░░░░░░░   37.82 % 
+sh         4 hrs 42 mins   ████████▒░░░░░░░░░░░░░░░░   33.75 % 
+Markdown   1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Makefile   1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Bash       35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 ```
 <!--END_SECTION:waka-->
 
