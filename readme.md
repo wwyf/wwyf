@@ -20,13 +20,13 @@ Tags: Persistent Memory, Storage System
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2020 - 05 January, 2021
+Week: 30 December, 2020 - 06 January, 2021
 
-YAML           43 mins         ██████████▓░░░░░░░░░░░░░░   42.65 % 
-Markdown       27 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.02 % 
-TeX            15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-sh             8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-OpenEdge ABL   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+YAML           43 mins         ███████████░░░░░░░░░░░░░░   43.48 % 
+Markdown       27 mins         ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+TeX            15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+sh             6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+OpenEdge ABL   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 ```
 <!--END_SECTION:waka-->
 
