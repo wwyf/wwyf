@@ -32,7 +32,7 @@ Markdown       23 mins         ▓░░░░░░░░░░░░░░░�
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwyf&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwyf&count_private=true&hide=jupyter%20notebook,html&langs_count=10&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwyf&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwyf&count_private=true&hide=jupyter%20notebook,html,OpenEdge%20ABL&langs_count=10&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
