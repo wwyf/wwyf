@@ -20,13 +20,13 @@ Tags: Persistent Memory, Storage System
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 January, 2021 - 15 January, 2021
+Week: 09 January, 2021 - 16 January, 2021
 
-OpenEdge ABL   6 hrs 54 mins   ███████████▓░░░░░░░░░░░░░   46.73 % 
-TeX            4 hrs 54 mins   ████████▒░░░░░░░░░░░░░░░░   33.20 % 
-Python         1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-sh             38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Markdown       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+OpenEdge ABL   6 hrs 54 mins   ███████████▓░░░░░░░░░░░░░   46.31 % 
+TeX            4 hrs 54 mins   ████████▒░░░░░░░░░░░░░░░░   32.90 % 
+Python         1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+sh             53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Markdown       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 ```
 <!--END_SECTION:waka-->
 
