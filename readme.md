@@ -20,13 +20,13 @@ Tags: Persistent Memory, Storage System
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2021 - 24 January, 2021
+Week: 18 January, 2021 - 25 January, 2021
 
-TeX        1 hr 58 mins    ██████████▓░░░░░░░░░░░░░░   42.44 % 
-Python     1 hr 12 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.99 % 
-sh         51 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.44 % 
-YAML       22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Markdown   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Python     1 hr 12 mins    █████████▓░░░░░░░░░░░░░░░   38.39 % 
+sh         44 mins         ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+TeX        39 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.97 % 
+YAML       22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Markdown   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 <!--END_SECTION:waka-->
 
