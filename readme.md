@@ -20,13 +20,13 @@ Tags: Persistent Memory, Storage System
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2021 - 06 February, 2021
+Week: 31 January, 2021 - 07 February, 2021
 
-TeX          13 hrs 48 mins  █████████████████████▓░░░   86.78 % 
-sh           1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Python       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-BibTeX       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+TeX          13 hrs 48 mins  ██████████████████████░░░   87.72 % 
+sh           53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Python       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+BibTeX       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 <!--END_SECTION:waka-->
 
