@@ -20,11 +20,12 @@ Tags: Persistent Memory, Storage System
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 February, 2021 - 20 February, 2021
+Week: 14 February, 2021 - 21 February, 2021
 
-TeX      36 mins         █████████████████████▓░░░   86.14 % 
-sh       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Java     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+TeX          49 mins         ████████████▒░░░░░░░░░░░░   49.69 % 
+Java         35 mins         █████████░░░░░░░░░░░░░░░░   35.75 % 
+sh           12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 <!--END_SECTION:waka-->
 
