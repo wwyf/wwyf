@@ -20,13 +20,13 @@ Tags: Persistent Memory, Storage System
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 February, 2021 - 27 February, 2021
+Week: 21 February, 2021 - 28 February, 2021
 
-sh             4 hrs 25 mins   ████████████▓░░░░░░░░░░░░   51.02 % 
-TeX            1 hr 58 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.84 % 
-Java           56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Rust           32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-OpenEdge ABL   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+sh             4 hrs 21 mins   █████████████░░░░░░░░░░░░   52.35 % 
+TeX            2 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+Rust           32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Java           22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+OpenEdge ABL   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 ```
 <!--END_SECTION:waka-->
 
