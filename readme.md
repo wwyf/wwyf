@@ -20,13 +20,13 @@ Tags: Persistent Memory, Storage System
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 March, 2021 - 15 March, 2021
+Week: 09 March, 2021 - 16 March, 2021
 
-sh         4 hrs 58 mins   █████████████▒░░░░░░░░░░░   53.95 % 
-Java       2 hrs 49 mins   ███████▓░░░░░░░░░░░░░░░░░   30.66 % 
-Other      19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-Bash       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Markdown   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+sh      4 hrs 46 mins   ███████████░░░░░░░░░░░░░░   44.02 % 
+Java    2 hrs 49 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.09 % 
+TeX     1 hr 54 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Other   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Bash    16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 ```
 <!--END_SECTION:waka-->
 
