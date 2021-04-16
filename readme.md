@@ -22,11 +22,11 @@ Tags: Persistent Memory, Storage System
 ```text
 Week: 08 April, 2021 - 15 April, 2021
 
-sh             5 hrs 26 mins   ██████████▒░░░░░░░░░░░░░░   41.05 % 
-Markdown       2 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Java           1 hr 38 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-TeX            1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-OpenEdge ABL   1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+sh             5 hrs 44 mins   ██████████▒░░░░░░░░░░░░░░   41.24 % 
+TeX            4 hrs 37 mins   ████████▒░░░░░░░░░░░░░░░░   33.26 % 
+OpenEdge ABL   1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Markdown       51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Bash           47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 ```
 <!--END_SECTION:waka-->
 
