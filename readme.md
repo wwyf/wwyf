@@ -22,8 +22,8 @@ Tags: Persistent Memory, Storage System
 ```text
 Week: 15 July, 2021 - 21 July, 2021
 
-sh         4 hrs 16 mins   ██████████████████▓░░░░░░   74.56 % 
-Markdown   1 hr 27 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.44 % 
+sh         4 hrs 24 mins   ██████████████████▓░░░░░░   75.16 % 
+Markdown   1 hr 27 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.84 % 
 ```
 <!--END_SECTION:waka-->
 
