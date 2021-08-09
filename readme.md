@@ -20,7 +20,7 @@ Tags: Persistent Memory, Storage System
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 August, 2021 - 07 August, 2021
+Week: 02 August, 2021 - 08 August, 2021
 
 sh     9 hrs 21 mins   █████████░░░░░░░░░░░░░░░░   36.63 % 
 TeX    7 hrs 35 mins   ███████▒░░░░░░░░░░░░░░░░░   29.76 % 
