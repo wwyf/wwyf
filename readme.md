@@ -22,9 +22,9 @@ Tags: Persistent Memory, Storage System
 ```text
 Week: 20 August, 2021 - 26 August, 2021
 
-TeX          12 hrs 51 mins  ████████████████████░░░░░   80.31 % 
-sh           2 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Python       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+TeX          12 hrs 51 mins  ██████████████████▓░░░░░░   74.45 % 
+sh           4 hrs 14 mins   ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+Python       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 <!--END_SECTION:waka-->
 
