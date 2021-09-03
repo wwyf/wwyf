@@ -22,7 +22,7 @@ Tags: Persistent Memory, Storage System
 ```text
 Week: 27 August, 2021 - 02 September, 2021
 
-sh   4 hrs 12 mins   █████████████████████████   100.00 % 
+sh   2 hrs 48 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
