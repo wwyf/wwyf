@@ -22,11 +22,11 @@ Tags: Persistent Memory, Storage System
 ```text
 Week: 29 October, 2021 - 04 November, 2021
 
-Java       8 hrs 10 mins   ████████████░░░░░░░░░░░░░   48.35 % 
-Markdown   3 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.98 % 
-sh         3 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Bash       46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Other      39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+sh         3 hrs 54 mins   ██████████░░░░░░░░░░░░░░░   40.57 % 
+Markdown   3 hrs 32 mins   █████████▒░░░░░░░░░░░░░░░   36.83 % 
+Bash       41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+TeX        32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Other      32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 ```
 <!--END_SECTION:waka-->
 
