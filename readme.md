@@ -20,7 +20,7 @@ Tags: Persistent Memory, Storage System
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 December, 2021 - 06 January, 2022
+Week: 01 January, 2022 - 07 January, 2022
 
 Bash       7 hrs 55 mins   ████████▓░░░░░░░░░░░░░░░░   35.03 % 
 Other      6 hrs 27 mins   ███████░░░░░░░░░░░░░░░░░░   28.54 % 
