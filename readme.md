@@ -22,9 +22,8 @@ Tags: Persistent Memory, Storage System
 ```text
 Week: 12 January, 2022 - 18 January, 2022
 
-sh         4 hrs 24 mins   ██████████████░░░░░░░░░░░   55.73 % 
-Markdown   3 hrs           █████████▓░░░░░░░░░░░░░░░   38.05 % 
-C          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+sh         4 hrs 27 mins   ███████████████░░░░░░░░░░   59.62 % 
+Markdown   3 hrs           ██████████░░░░░░░░░░░░░░░   40.20 % 
 ```
 <!--END_SECTION:waka-->
 
