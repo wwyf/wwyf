@@ -22,11 +22,11 @@ Tags: Persistent Memory, Storage System
 ```text
 Week: 17 January, 2022 - 23 January, 2022
 
-Other      9 hrs 8 mins    ████████▒░░░░░░░░░░░░░░░░   33.41 % 
-Bash       6 hrs 52 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.08 % 
-sh         4 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Markdown   3 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-XML        1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Bash       6 hrs 55 mins   ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+Other      5 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.59 % 
+sh         3 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Markdown   3 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+C++        2 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 ```
 <!--END_SECTION:waka-->
 
