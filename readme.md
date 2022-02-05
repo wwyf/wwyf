@@ -22,11 +22,8 @@ Tags: Persistent Memory, Storage System
 ```text
 Week: 29 January, 2022 - 04 February, 2022
 
-C++        1 hr            ████████░░░░░░░░░░░░░░░░░   31.52 % 
-Markdown   45 mins         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-sh         27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Python     25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Other      18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Markdown   27 mins         ██████████████████░░░░░░░   71.51 % 
+sh         9 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.95 % 
 ```
 <!--END_SECTION:waka-->
 
