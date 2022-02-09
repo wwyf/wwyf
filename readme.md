@@ -20,7 +20,10 @@ Tags: Persistent Memory, Storage System
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 February, 2022 - 08 February, 2022
+
+Other    29 mins         ████████████████▒░░░░░░░░   65.86 % 
+sh       14 mins         ████████░░░░░░░░░░░░░░░░░   32.44 % 
 ```
 <!--END_SECTION:waka-->
 
