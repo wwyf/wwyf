@@ -22,8 +22,6 @@ Tags: Persistent Memory, Storage System
 ```text
 Week: 12 February, 2022 - 18 February, 2022
 
-Total: 9 hrs 51 mins
-
 Python   3 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   32.89 % 
 Bash     2 hrs 47 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.16 % 
 Other    2 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.27 % 
