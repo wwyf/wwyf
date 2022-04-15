@@ -21,12 +21,12 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 April 2022 - To: 14 April 2022
+From: 08 April 2022 - To: 15 April 2022
 
-TeX        3 hrs 20 mins   ███████████████▒░░░░░░░░░   60.79 %
-sh         1 hr 26 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
-Markdown   33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-Other      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+TeX        3 hrs 38 mins   ████████████████▓░░░░░░░░   66.37 %
+sh         1 hr 24 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.52 %
+Markdown   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+BibTeX     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
