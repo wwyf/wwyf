@@ -21,14 +21,12 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 June 2022 - To: 15 June 2022
+From: 09 June 2022 - To: 16 June 2022
 
-TeX              9 hrs 16 mins   █████████████▓░░░░░░░░░░░   54.34 %
-C++              6 hrs 17 mins   █████████▒░░░░░░░░░░░░░░░   36.87 %
-sh               1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-Git Config       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-ca65 assembler   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-BibTeX           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+C++              9 hrs 27 mins   ███████████▒░░░░░░░░░░░░░   45.30 %
+TeX              9 hrs 16 mins   ███████████░░░░░░░░░░░░░░   44.41 %
+sh               1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+Other            16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
