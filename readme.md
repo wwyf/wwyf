@@ -21,11 +21,14 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 June 2022 - To: 24 June 2022
+From: 18 June 2022 - To: 25 June 2022
 
-sh     49 mins         ██████████████████████▒░░   89.86 %
-YAML   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+C                1 hr 57 mins    ███████████████▒░░░░░░░░░   60.75 %
+sh               49 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.48 %
+Markdown         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+YAML             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Makefile         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Other            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
