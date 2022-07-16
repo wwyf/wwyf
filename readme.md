@@ -21,13 +21,13 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 July 2022 - To: 15 July 2022
+From: 09 July 2022 - To: 16 July 2022
 
-C++        5 hrs 8 mins    ███████████████░░░░░░░░░░   59.64 %
-sh         2 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
-Markdown   1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
-Python     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Makefile   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+C++        5 hrs 7 mins    ██████████████▒░░░░░░░░░░   57.93 %
+sh         2 hrs 34 mins   ███████▒░░░░░░░░░░░░░░░░░   29.23 %
+Markdown   1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+Python     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Makefile   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
