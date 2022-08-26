@@ -21,10 +21,10 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 August 2022 - To: 25 August 2022
+From: 19 August 2022 - To: 26 August 2022
 
-C++          8 hrs 27 mins   ██████████████░░░░░░░░░░░   56.56 %
-Other        3 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   20.30 %
+C++        6 hrs 55 mins   ███████████████▒░░░░░░░░░   60.93 %
+Other      2 hrs 41 mins   ██████░░░░░░░░░░░░░░░░░░░   23.63 %
 ```
 
 <!--END_SECTION:waka-->
