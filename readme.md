@@ -21,11 +21,12 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 December 2022 - To: 07 January 2023
+From: 01 January 2023 - To: 08 January 2023
 
-sh       53 mins         ██████████▒░░░░░░░░░░░░░░   41.61 %
-Python   48 mins         █████████▒░░░░░░░░░░░░░░░   37.61 %
-CSV      26 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
+sh       1 hr 15 mins    ████████████░░░░░░░░░░░░░   47.94 %
+Python   48 mins         ███████▓░░░░░░░░░░░░░░░░░   30.73 %
+CSV      26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+Other    6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
 ```
 
 <!--END_SECTION:waka-->
