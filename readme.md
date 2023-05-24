@@ -21,13 +21,13 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2023 - To: 23 May 2023
+From: 17 May 2023 - To: 24 May 2023
 
-Markdown   7 hrs 58 mins   ███████████████████▒░░░░░   76.67 %
-C++        1 hr 46 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
-C          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Makefile   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-CMake      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Markdown   8 hrs 1 min     ███████████████████░░░░░░   75.53 %
+C++        1 hr 56 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
+C          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Makefile   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+CMake      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
