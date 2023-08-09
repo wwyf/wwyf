@@ -21,13 +21,13 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2023 - To: 08 August 2023
+From: 02 August 2023 - To: 09 August 2023
 
-Markdown      5 hrs 55 mins   ██████████████████████▓░░   90.03 %
-C++           39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-C             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Markdown      8 hrs 16 mins   ███████████████████████▓░   94.19 %
+C++           30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+C             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
