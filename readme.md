@@ -21,13 +21,13 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2023 - To: 13 August 2023
+From: 07 August 2023 - To: 14 August 2023
 
-Markdown      9 hrs 4 mins    ███████████████████▓░░░░░   78.59 %
-C++           1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-TeX           1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-Git Config    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-BibTeX        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Markdown     10 hrs 33 mins  ████████████████████▒░░░░   81.05 %
+C++          1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+TeX          1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+BibTeX       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
