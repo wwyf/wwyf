@@ -21,10 +21,10 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2023 - To: 31 October 2023
+From: 25 October 2023 - To: 01 November 2023
 
-Markdown   37 hrs 21 mins  ████████████████████████░   95.47 %
-C++        1 hr 46 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Markdown   36 hrs 32 mins  ████████████████████████▓   99.23 %
+C++        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
