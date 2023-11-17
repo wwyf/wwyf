@@ -21,13 +21,13 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 16 November 2023
+From: 10 November 2023 - To: 17 November 2023
 
-Markdown   21 hrs 16 mins  ████████████████████████▓   98.25 %
-TeX        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-C++        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Python     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown   23 hrs 24 mins  ████████████████████████▓   98.41 %
+TeX        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+C++        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Python     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
