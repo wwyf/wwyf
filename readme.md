@@ -23,7 +23,11 @@ Tags: Persistent Memory, Storage System
 ```txt
 From: 14 November 2023 - To: 21 November 2023
 
-No activity tracked
+Markdown       23 hrs 3 mins   ████████████████████████░   96.62 %
+TeX            38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+BibTeX         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Python         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+OpenEdge ABL   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
