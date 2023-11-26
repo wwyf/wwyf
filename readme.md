@@ -21,10 +21,10 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2023 - To: 25 November 2023
+From: 19 November 2023 - To: 26 November 2023
 
-Markdown   15 hrs 48 mins  █████████████████████████   99.80 %
-TeX        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Markdown   13 hrs 43 mins  █████████████████████████   99.76 %
+TeX        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
