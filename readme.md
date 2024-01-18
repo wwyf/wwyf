@@ -21,10 +21,10 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2024 - To: 17 January 2024
+From: 11 January 2024 - To: 18 January 2024
 
-Markdown   9 hrs 29 mins   ███████████████████████░░   92.62 %
-C++        44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Markdown   10 hrs 12 mins  ███████████████████████▒░   93.10 %
+C++        44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
 CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
