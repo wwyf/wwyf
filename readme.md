@@ -24,7 +24,7 @@ Tags: Persistent Memory, Storage System
 From: 26 April 2024 - To: 03 May 2024
 
 C++        5 hrs 53 mins   █████████████▒░░░░░░░░░░░   52.83 %
-Markdown   2 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   24.57 %
+Markdown   2 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   24.56 %
 Bash       2 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   19.50 %
 C          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 JSON       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
