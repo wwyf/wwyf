@@ -21,11 +21,11 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2024 - To: 10 June 2024
+From: 04 June 2024 - To: 11 June 2024
 
-Rust       43 mins         ███████████████▓░░░░░░░░░   62.78 %
-Markdown   25 mins         █████████░░░░░░░░░░░░░░░░   36.22 %
-Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Rust       43 mins         ██████████████████████░░░   88.11 %
+Markdown   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
