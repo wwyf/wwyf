@@ -21,10 +21,10 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2024 - To: 12 July 2024
+From: 06 July 2024 - To: 13 July 2024
 
-Markdown   1 hr 51 mins    ██████████████████▓░░░░░░   74.68 %
-Python     37 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
+Markdown   1 hr 29 mins    ███████████████████▓░░░░░   78.15 %
+Python     25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
 ```
 
 <!--END_SECTION:waka-->
