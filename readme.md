@@ -21,13 +21,13 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2024 - To: 08 September 2024
+From: 02 September 2024 - To: 09 September 2024
 
-Python   4 hrs 54 mins   ████████████░░░░░░░░░░░░░   47.66 %
-C        2 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   24.15 %
-C++      1 hr 21 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-JSON     46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-Other    23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Python   7 hrs 56 mins   ███████████▒░░░░░░░░░░░░░   45.89 %
+C++      3 hrs 45 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.72 %
+C        2 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+Other    1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+JSON     56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
 ```
 
 <!--END_SECTION:waka-->
