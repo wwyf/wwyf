@@ -21,9 +21,10 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2025 - To: 12 March 2025
+From: 06 March 2025 - To: 13 March 2025
 
-Other   11 hrs 18 mins  █████████████████████████   100.00 %
+Other      8 hrs 1 min     ████████████████████████░   95.52 %
+Markdown   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
 ```
 
 <!--END_SECTION:waka-->
