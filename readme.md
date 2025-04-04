@@ -21,12 +21,9 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2025 - To: 03 April 2025
+From: 28 March 2025 - To: 04 April 2025
 
-Other        3 hrs 56 mins   ██████████████████████▓░░   90.14 %
-TeX          24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Other   3 hrs 30 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
