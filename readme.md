@@ -21,13 +21,13 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2025 - To: 26 June 2025
+From: 20 June 2025 - To: 27 June 2025
 
-Other          8 hrs 7 mins    ███████████████████░░░░░░   75.89 %
-Python         1 hr 14 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-Bash           40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-JavaScript     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-OpenEdge ABL   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Other        7 hrs 56 mins   █████████████████░░░░░░░░   68.42 %
+Python       1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
+Markdown     50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Bash         43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+JavaScript   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
 ```
 
 <!--END_SECTION:waka-->
