@@ -21,11 +21,11 @@ Tags: Persistent Memory, Storage System
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2025 - To: 21 August 2025
+From: 15 August 2025 - To: 22 August 2025
 
-Other      2 hrs 9 mins    ████████████████████▓░░░░   82.39 %
-Markdown   25 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
-Groff      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Other      3 hrs 15 mins   ██████████████████████░░░   87.60 %
+Markdown   25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+Groff      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
