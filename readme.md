@@ -23,7 +23,7 @@ Tags: Persistent Memory, Storage System
 ```txt
 From: 10 February 2026 - To: 17 February 2026
 
-Other   3 hrs 23 mins   █████████████████████████   100.00 %
+Other   3 hrs 23 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
